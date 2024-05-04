@@ -56,4 +56,4 @@ In-depth analysis and metrics for payer-provider relationships: This image showc
 
 Entity Relationship Diagram illustrating data structure and relationships: Gain a deeper understanding of the underlying data architecture through the Entity Relationship Diagram (ERD). This visual representation showcases the relationships within the healthcare analytics project.
 
-<h3>Check out the live report on NovyPro - <a href=https://www.novypro.com/project/us-healthcare-analytics
+<h3>Check out the live report on NovyPro - <a href='https://www.novypro.com/project/us-healthcare-analytics'>U.S Healthcare Analytics</a></h3>
