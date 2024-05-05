@@ -1,4 +1,4 @@
-<h2>US_Healthcare_Analytics_PowerBI_Insights</h2>
+<h2>US Healthcare Analytics PowerBI Insights</h2>
 
 <h3>Overview</h3><br>
 
